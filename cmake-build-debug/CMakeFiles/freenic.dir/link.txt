@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/freenic.dir/src/main.cpp.o  -o freenic 

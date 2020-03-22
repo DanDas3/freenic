@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="freenic" targetName="freenic" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ef904cc-d7fd-4088-a9f5-b03f6ed6940b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="HIWCZnJg" />
+  </component>
+  <component name="ProjectId" id="1ZTNJMqZ0rY1BW1PCMHe2F62LEv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="freenic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="freenic" TARGET_NAME="freenic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="freenic" RUN_TARGET_NAME="freenic">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef904cc-d7fd-4088-a9f5-b03f6ed6940b" name="Default Changelist" comment="" />
+      <created>1584859050484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584859050484</updated>
+      <workItem from="1584859053996" duration="469000" />
+      <workItem from="1584884269980" duration="773000" />
+      <workItem from="1584886100860" duration="398000" />
+      <workItem from="1584886692729" duration="528000" />
+      <workItem from="1584887335748" duration="322000" />
+      <workItem from="1584887747955" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="151" width="626" height="525" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584886992711">
+      <screen x="1" y="28" width="1279" height="772" />
+    </state>
+    <state x="323" y="151" width="626" height="525" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1.28.1279.772@1.28.1279.772" timestamp="1584886992711" />
+    <state x="296" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1584890258972">
+      <screen x="1" y="28" width="1279" height="772" />
+    </state>
+    <state x="296" y="242" key="com.intellij.ide.util.TipDialog/1.28.1279.772@1.28.1279.772" timestamp="1584890258972" />
+  </component>
+</project>
